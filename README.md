@@ -3,7 +3,6 @@
 <h3 align="center"></h3>
 <h3 align="center"> </h3>
 
-and I am a machine learning and AI researcher with a strong passion for education!\
-⚡️ Studying machine learning and computer vision \
+⚡️  I am a machine learning and computer vision researcher with a strong passion for education!\
 🎓 Previously, I received the M.S degree in Engineering Systems from Skolkovo Institute of Science and Technology (Skoltech) with a specialization in mathematics and computer science, and the B.S degree in Robotics systems and mechatronics from Bauman Moscow State University (BMSTU)\
 📖 I also authored several articles!
