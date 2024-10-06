@@ -5,4 +5,4 @@
 
 ⚡️  I am a machine learning and computer vision researcher with a strong passion for education!\
 🎓 Previously, I received the M.S degree in Engineering Systems from Skolkovo Institute of Science and Technology (Skoltech) with a specialization in mathematics and computer science, and the B.S degree in Robotics systems and mechatronics from Bauman Moscow State University (BMSTU)\
-📖 I also authored several articles!
+📖 I also authored several articles! [link to ResearchGate](https://www.researchgate.net/profile/Anna-Ilyushina/research)
